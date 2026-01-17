@@ -2,7 +2,7 @@ git init
 
 git add .
 
-git commit -m "first commit"
+git commit -m "first created a index html file"
 
 git branch -M main
 
